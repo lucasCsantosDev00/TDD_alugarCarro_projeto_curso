@@ -1,0 +1,23 @@
+[
+  {
+    "id": "7b9aaef8-bc0c-407e-a2c9-c2240b400b1d",
+    "name": "Grand Cherokee",
+    "releaseYear": 2022,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "29c1f192-9976-4a7e-a598-8ec1d2a445a2",
+    "name": "Grand Caravan",
+    "releaseYear": 2021,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "aaee56bf-2a7d-4594-92be-0bef1285ed94",
+    "name": "Spyder",
+    "releaseYear": 2021,
+    "available": true,
+    "gasAvailable": true
+  }
+]
