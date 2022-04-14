@@ -28,12 +28,16 @@ Tecnologias:
 Executando o projeto:
 
 Em uma pasta faça um git clone na url deste diretório.
+
 Rodar o comando 'npm run seed' para que o nosso banco de dados fictício seja populado (arquivos JSON).
-A aplicção pode ser rodada com o comando 'npm run start'.
+
+A aplicação pode ser rodada com o comando 'npm run start'.
+
 'npm run test' para verificar os testes escritos.
+
 'npm run test:cov' para o IstanbulJS verificar a cobertura do código.
 Rotas:
 
-POST: /rent
-POST /calculateFinalPrice
-POST /getAvailableCar
+- POST: /rent
+- POST /calculateFinalPrice
+- POST /getAvailableCar
