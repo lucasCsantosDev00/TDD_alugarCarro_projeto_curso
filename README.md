@@ -8,22 +8,22 @@ Dado o caso de uso criamos os testes, após as falhas, fizemos a implementação
 
 Conceitos abordados:
 
--Testes
--TDD
--Mocks e stubs
--Cobertura de código
--seeds
--testes end-to-end
--code coverage
+- Testes
+- TDD
+-  Mocks e stubs
+- Cobertura de código
+- seeds
+- testes end-to-end
+- code coverage
 
 Tecnologias:
 
--Javascript
--Node
--Mocha (Framework, motor de testes)
--Sinon (Framework)
--NYC (Biblioteca para cobertura de código)
--Supertest (Framework)
+- Javascript
+- Node
+- Mocha (Framework, motor de testes)
+- Sinon (Framework)
+- NYC (Biblioteca para cobertura de código)
+- Supertest (Framework)
 
 Executando o projeto:
 
